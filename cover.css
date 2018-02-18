@@ -91,6 +91,15 @@ body {
   }
 }
 
+.shows {
+  position: static;
+}
+
+.album-text {
+  color: #C14C23;
+  text-shadow: 0 .05rem .1rem rgba(0, 0, 0, .5);
+}
+
 
 /*
  * Cover
